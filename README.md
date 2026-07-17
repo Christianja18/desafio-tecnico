@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafío técnico
 
 Solución con dos APIs reactivas:
@@ -38,3 +39,7 @@ Puertos por defecto:
 
 - Experience: `8080`
 - Support: `8081`
+=======
+# desafio-tecnico
+Solución backend basada en microservicios para la gestión de operaciones de tipo de cambio, desarrollada con Java 17, Spring Boot, WebFlux, JWT, Docker y principios de Arquitectura Hexagonal.
+>>>>>>> parent of ffbcf50 (Remove Docker mention from README)
